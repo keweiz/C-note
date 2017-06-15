@@ -1,4 +1,4 @@
-# C-note
+# C-notes
 
 ```c
 #include <stdio.h>
